@@ -1,5 +1,5 @@
-# portfolio-site
-# Personal/portfolio site
+
+# Md Sadiquzzaman (Sadiq)
 
 ---
 
@@ -9,9 +9,7 @@ This where you can include a short bio to let people know a bit about yourself. 
 
 Get in touch [jamilsadiq00@gmail.com](mailto:hello@joshmillgate.co.uk)
 
-👨‍💻 [Github](https://github.com/)
-
-📷 [Unsplash](https://unsplash.com/)
+👨‍💻 [Github]([(https://github.com/jamilsadiq)])
 
 👤 [LinkedIn](https://www.linkedin.com/)
 
